@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+      .banner{
+	   
+       width:1330px;
+	   height:400px;
+	   background:url(../IMG/abstract-black_background_wood.jpg);
+	   margin:10px;	
+	   border:1px solid #00F;
+	   
+	  }
+	  .imgbanner{
+	     width:1315px; 
+	     height:390px; 
+	     margin:4px;
+	     border-radius:5px;
+	
+       }
+	   nav#menu ul{
+		
+		list-style:none;
+		text-transform:uppercase;
+		top:-10px;
+		left:350px;
+	}
+
+
+       nav#menu li{
+		display:inline-block;
+		background-color:#000;
+		padding:10px;
+		margin:5px;
+		transition: background-color 1s;
+		font-size:45px;
+		border:1px solid #00F;
+		text-decoration:none;
+		text-outline:none;
+		
+	}
+
+       nav#menu li:hover {
+		background:#009;
+		color:#00F;
+		
+	
+	}
+	  nav#menu a{
+	
+	  color:#F00;
+	  text-decoration:none;
+		
+	}
+	
+	  a{
+	  text-decoration:none;
+	  color:#FFF;	
+	 }
+	   .informação{
+		
+	     background:url(../IMGSERIE/1309-3d-blue-abstract.jpg);
+	     border-radius:45px;
+	     box-shadow:15px 15px 15px #0000FF;
+	     font-family: 'Montserrat', sans-serif;
+	     text-decoration:none;	
+	     font-size:30px;	
+	     color:#FFF;
+		
+	   }
+	   .nomes{
+	
+	     text-decoration:none;
+	     background:url(../IMGSERIE/blue_abstract_wallpaper_by_br8y16-d5coou6.png);
+	     font-size:24px;
+	     text-align:center;
+	     margin:25px;	
+	     border-radius:10px;
+	     border:2px solid #009;
+		 color:#FFF;
+	
+        }
+		
